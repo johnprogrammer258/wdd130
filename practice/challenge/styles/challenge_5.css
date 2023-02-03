@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: gray;
+    max-width: 1600px;
+}
+img{
+    width: 100%;
+}
+.secondary_image{
+    width: 25%;
+    display: inline-block;
+    margin: 50px 37px;
+    border: 15px solid;
+    border-radius: 180px;
+    border-color: rgb(82, 82, 82);
+
+}
